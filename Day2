@@ -1,1 +1,14 @@
-
+public class Datatypes{  //creating different variables (Primitive Data Types in Java)
+public static void main(String[] args){
+byte b=8;
+System.out.println(b);
+short c= 56;
+float val= 5.8f;
+double val1=6.77788899999;
+boolean ans= true;
+System.out.println(ans);
+System.out.println(val);
+System.out.println(val1);
+System.out.println(c);
+}
+}
